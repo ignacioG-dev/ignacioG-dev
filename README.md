@@ -1,5 +1,5 @@
 
-# 👋 Hola, mi nombre es Gauto Ignacio
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> # Hola, mi nombre es Gauto Ignacio
 
 Soy un Licenciado en Sistemas y Analista en sistemas en formación.
 
