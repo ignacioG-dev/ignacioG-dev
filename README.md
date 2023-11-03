@@ -41,7 +41,7 @@
 <!--habilidades iconos-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,firebase,github,html,java,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,css,discord,firebase,github,html,java,react,vscode,bots,powershell,replit,wordpress&perline=7" />
   </a>
 </p>
 
