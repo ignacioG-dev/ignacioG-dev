@@ -1,7 +1,4 @@
 
-<!--icono hacker-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--presentacion-->
 <div id="user-content-toc">
   <ul align="center">
@@ -11,25 +8,16 @@
   </ul>
 </div>
 
-<!--- serpiente -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px></picture>
 
 <br><br>
 
-- :school: Soy `estudiante` en [licenciatura en sistemas de la información](https://exa.unne.edu.ar/r/?page_id=8390) en la [Universidad Nacional del Nordeste](https://www.unne.edu.ar/).
-- :technologist: Me encanta usar el Software como una solucion de cada `Problema`.
-- :computer: Estudiando en `Udemy`, `Alura`, y `más` para mejorar mis habilidades.
+- 📚 Soy `estudiante` de [licenciatura en sistemas de la información](https://exa.unne.edu.ar/r/?page_id=8390) en la [Universidad Nacional del Nordeste](https://www.unne.edu.ar/).
 - :student: Recientemente aprendiendo `Licenciatura en Sistemas` y `Analisis en Sistemas`.
-- :nerd_face: Siempre `aprendiendo nuevas cosas`.
-- :thinking: Estoy abierto a `oportunidades de trabajos`, este es [MI CV](https://drive.google.com/file/d/1Vv4vzwuTLYCi9LnYL7uwnIUCezPiFVR0/view?usp=sharing).
-- :boom: Visita mi proyecto reciente [PAGINA WEB](https://smafsebamontenegro.site/).
+- 🔎 Estoy abierto a `oportunidades de trabajos`, este es [MI CV](https://drive.google.com/file/d/1Vv4vzwuTLYCi9LnYL7uwnIUCezPiFVR0/view?usp=sharing).
+- 🔥 Visita mi proyecto reciente [PAGINA WEB](https://smafsebamontenegro.site/).
 <br>
 
 <!--mis tecnologias-->
@@ -41,7 +29,7 @@
 <!--habilidades iconos-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,firebase,github,html,java,react,vscode,bots,powershell,replit,wordpress&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,c,css,discord,firebase,github,html,java,react,vscode,replit,wordpress&perline=6" />
   </a>
 </p>
 
@@ -66,7 +54,7 @@
       <a href="https://www.instagram.com/1igna_gauto1/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+3777309591" target="blank"><img align="center"
+      <a href="https://wa.link/hmif0q" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
@@ -74,12 +62,6 @@
 
 <p align="center">
  
-<!-- gif footer -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-
-<!-- linea de arcoiris -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 ------
 
 Creditos: [Gauto Ignacio](https://github.com/ignacioG-dev)
