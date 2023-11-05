@@ -23,7 +23,7 @@
 
 <br><br>
 
-- :school: Soy un `junior` en [licenciatura en sistemas de la información](https://exa.unne.edu.ar/r/?page_id=8390) en la [Universidad Nacional del Nordeste](https://www.unne.edu.ar/).
+- :school: Soy `estudiante` en [licenciatura en sistemas de la información](https://exa.unne.edu.ar/r/?page_id=8390) en la [Universidad Nacional del Nordeste](https://www.unne.edu.ar/).
 - :technologist: Me encanta usar el Software como una solucion de cada `Problema`.
 - :computer: Estudiando en `Udemy`, `Alura`, y `más` para mejorar mis habilidades.
 - :student: Recientemente aprendiendo `Licenciatura en Sistemas` y `Analisis en Sistemas`.
