@@ -16,7 +16,7 @@
 
 - 📚 Soy `estudiante` de [licenciatura en sistemas de la información](https://exa.unne.edu.ar/r/?page_id=8390) en la [Universidad Nacional del Nordeste](https://www.unne.edu.ar/).
 - :student: Recientemente aprendiendo `Licenciatura en Sistemas` y `Analisis en Sistemas`.
-- 🔎 Estoy abierto a `oportunidades de trabajos`, este es [MI CV](https://drive.google.com/file/d/1Vv4vzwuTLYCi9LnYL7uwnIUCezPiFVR0/view?usp=sharing).
+- 🔎 Estoy abierto a `oportunidades de trabajos`, este es [MI CV](https://drive.google.com/file/d/1W6YLST7wKkHUcQDGhpW4C3Lr7AddIkmq/view?usp=sharing).
 - 🔥 Visita mi proyecto reciente [PAGINA WEB](https://smafsebamontenegro.site/).
 <br>
 
