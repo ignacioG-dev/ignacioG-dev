@@ -68,4 +68,4 @@
 
 Creditos: [Gauto Ignacio](https://github.com/ignacioG-dev)
 
-Ultima edición: 02/11/2023
+Ultima edición: 21/11/23
